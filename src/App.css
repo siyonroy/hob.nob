@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+:root {
+  --primary-color: #000000;
+  --secondary-color: #16a34a;
+  --ternary-color: #16a34a;
+  --item-color: #16a34a;
+  --btn-color: #abff01;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Josefin Sans", sans-serif;
+}
+button {
+  cursor: pointer;
+  text-transform: uppercase;
+}
